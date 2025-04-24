@@ -1,7 +1,4 @@
-# Classification-of-Vulnerabilities-using-Machine-Learning-main
-This project leverages Common Vulnerabilities and Exposures (CVE) JSON data to classify cybersecurity vulnerabilities using advanced Natural Language Processing (NLP) techniques and machine learning models.
-
-<h1 align="center">🧠 Classification of Vulnerabilities (CVE) using Machine Learning</h1>
+<h1 align="center">🧠 Classification of Vulnerabilities (CVE) using Machine Learning</h1>This project leverages Common Vulnerabilities and Exposures (CVE) JSON data to classify cybersecurity vulnerabilities using advanced Natural Language Processing (NLP) techniques and machine learning models.
 
 <p align="center">
   <em>Empowering cybersecurity through intelligent vulnerability classification using ML models like ANN, CNN, and Random Forest.</em>
@@ -134,7 +131,7 @@ The following Python libraries are required for this project:
 
 ### Nisha Raval ,Sweta Patel
 
-MSc Computer Science
+MSC Computer Science
 Algoma University
 
 ---
